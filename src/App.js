@@ -8,6 +8,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>JS Dżem 🤓✅</h1>
+        <p>Programistafrontend na YouTube</p>
         <a
           className="App-link"
           href="https://reactjs.org"
